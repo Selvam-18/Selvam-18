@@ -1,6 +1,6 @@
 Hola amigos!!
 
-[![My Skills](https://skillicons.dev/icons?i=js,nextjs,react,ts,java,spring,postgres,git,github,html,css,tailwind,bootstrap,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nextjs,react,ts,java,spring,postman,postgres,git,github,html,css,tailwind,bootstrap,vscode,idea)](https://skillicons.dev)
 
 <!--
 **Selvam-18/Selvam-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
